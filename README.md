@@ -1,4 +1,4 @@
-[![My Skills](https://skillicons.dev/icons?i=html,js,react&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,js,react,css&theme=light)](https://skillicons.dev)
 # my-to-do-task-tracker
 
 ### To start the app
